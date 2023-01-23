@@ -9,7 +9,7 @@ Description: |
 
 Parameters:
   KeyName: first-key
-    Description: Enter the name of your first-key for SSH connections
+    Description: Enter the name of your Key Pair for SSH connections
     Type: AWS::EC2::KeyPair::KeyName
 
 Resources:
