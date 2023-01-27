@@ -27,4 +27,4 @@ def main_post():
 
 if __name__ == '__main__':
     # app.run(debug=True)
-    app.run(host='0.0.0.0', port=80)   # sadece "localhost" yaz "localhost:5000" yazınca çıkmıyor.
+    app.run(host='0.0.0.0', port=80)
