@@ -52,7 +52,6 @@ Resources:
             wget $FOLDER/cat3.png
             systemctl start httpd
             systemctl enable httpd 
-
                
 Outputs:
   WebsiteURL:
